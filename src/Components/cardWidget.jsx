@@ -1,8 +1,10 @@
+import './cardWindget.css'
+
 const CardWid = () => {
 
     return (
 
-        <i className="bi bi-cart-plus-fill">5</i>
+        <button className='btnCard'><i className="bi bi-cart-plus-fill">5</i></button>
 
     )
 }
