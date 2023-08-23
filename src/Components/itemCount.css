@@ -1,0 +1,40 @@
+.divContainer {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.controlContainer {
+    width: 120px;
+    padding: 5px;
+}
+
+btnDI {
+    background-color: grey;
+    border: 1px solid green;
+    border-radius: 5px;
+    width: 50px;
+}
+
+.numberDI {
+    font-size: 20px;
+}
+
+.btnAdd {
+    width: 150px;
+    border-radius: 16px;
+    height: 30px;
+    background-color: yellowgreen;
+    color: white;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.btnAdd:hover {
+    border: 2px solid blue;
+    background-color: white;
+    color: black;
+}
