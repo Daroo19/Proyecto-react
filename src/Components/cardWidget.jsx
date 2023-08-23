@@ -1,4 +1,4 @@
-import './cardWindget.css'
+import './cardWidget.css'
 
 const CardWid = () => {
 
