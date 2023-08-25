@@ -4,7 +4,7 @@ const CardWid = () => {
 
     return (
 
-        <button className='btnCard'><i className="bi bi-cart-plus-fill">5</i></button>
+        <button className='btnCard'><i className="bi bi-cart-plus-fill">0</i></button>
 
     )
 }

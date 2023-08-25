@@ -11,7 +11,7 @@ const NavBar = () => {
             <h3 className='tituloNav'>Mecanica Nitro</h3>
           </Link>
           <NavLink to={`/categoria/lavadero`} className={({isActive}) => isActive ? 'ActiveOption' : 'Option'}><button className='btnNav'>Lavadero</button></NavLink>
-          <NavLink to={`/categoria/mecanica`} className={({isActive}) => isActive ? 'ActiveOption' : 'Option'}><button className='btnNav'>Mecanica</button></NavLink>
+          <NavLink to={`/categoria/Mecanica`} className={({isActive}) => isActive ? 'ActiveOption' : 'Option'}><button className='btnNav'>Mecanica</button></NavLink>
           <CardWid className="Card"/>
         </div>
       </nav>
