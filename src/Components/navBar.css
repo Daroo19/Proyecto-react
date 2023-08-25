@@ -1,0 +1,30 @@
+.linkLogo {
+    text-decoration: none;
+    color: white;
+}
+
+.tituloNav {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.btnNav {
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: darkred;
+    color: white;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.navContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px;
+}
